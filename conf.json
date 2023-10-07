@@ -1,0 +1,32 @@
+{   
+    
+    "app_name": "xxx",
+    "list_app": {
+        "homeaccess": [{
+            "homeaccess.net.id" : "paket",
+            "homeaccess.net.id/request" : "paket"
+        }]
+    },
+    "email": [
+        {
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "email_address": "sintyakumara191005@gmail.com",
+            "email_password": "dnihcazejglzsddt",
+            "recipient_addresses": [
+                "sintyakumara191005@gmail.com",
+                "ayunoviwdrt@gmail.com"
+            ]
+        }
+    ],
+    "status": [
+        {
+            "url": "https://homeaccess.net.id/",
+            "email_address": "sintyakumara191005@gmail.com",
+            "email_password": "dnihcazejglzsddt",
+            "recipient_address": "sintyakumara191005@gmail.com",
+            "status_codes_to_notify": [200]
+        }
+    
+    ]
+}
